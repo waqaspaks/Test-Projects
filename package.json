@@ -1,0 +1,22 @@
+{
+  "name": "testproject",
+  "version": "0.0.1",
+  "description": "tis is a test project",
+  "main": "index.html",
+  "scripts": {
+    "test": "f5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waqaspaks/Test-Projects.git"
+  },
+  "keywords": [
+    "TP"
+  ],
+  "author": "Waqas Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waqaspaks/Test-Projects/issues"
+  },
+  "homepage": "https://github.com/waqaspaks/Test-Projects#readme"
+}
